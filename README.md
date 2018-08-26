@@ -1,4 +1,10 @@
 # Cyclical Learning Rate (CLR)
+
+## Optional Additional Files Required
+
+Download the trained models for [CIFAR-10](https://drive.google.com/open?id=1DiYkdKd7F9sSRk7iC6ehgc-RSMzvsdp9) and [ResNet](https://drive.google.com/open?id=1fPBqSEP9u2hNeVXKe_WAUthk3R-eyF0_). Copy these files to the respective folders, and extract them.
+
+## Introduction
 ![Alt text](images/triangularDiag.png?raw=true "Title")
 
 This repository includes a Keras callback to be used in training that allows implementation of cyclical learning rate policies, as detailed in Leslie Smith's paper [Cyclical Learning Rates for Training Neural Networks
